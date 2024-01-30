@@ -1,5 +1,5 @@
 #Code created by Kyle Zeller for Advent of Code 2023 Day 1
-with open("puzzle_input.txt", "r") as puzzle_codes:
+with open("day1input.txt", "r") as puzzle_codes:
     lines = puzzle_codes.readlines()
 
     #several extra lists to improve readability
